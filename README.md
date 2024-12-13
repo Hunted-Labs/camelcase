@@ -1,4 +1,4 @@
-# CamelCase [![PkgGoDev](https://pkg.go.dev/badge/github.com/fatih/camelcase)](https://pkg.go.dev/github.com/fatih/camelcase) [![](https://github.com/fatih/camelcase/workflows/build/badge.svg)](https://github.com/fatih/camelcase/actions)
+# CamelCase [![PkgGoDev](https://pkg.go.dev/badge/github.com/Hunted-Labs/camelcase)](https://pkg.go.dev/github.com/Hunted-Labs/camelcase) [![](https://github.com/Hunted-Labs/camelcase/workflows/build/badge.svg)](https://github.com/Hunted-Labs/camelcase/actions)
 
 CamelCase is a Go package to split the words of a camelcase type
 string into a slice of words. It can be used to convert a camelcase word (lower
@@ -21,7 +21,7 @@ or upper case) into any type of word.
 ## Install
 
 ```bash
-go get github.com/fatih/camelcase
+go get github.com/Hunted-Labs/camelcase
 ```
 
 ## Usage and examples
